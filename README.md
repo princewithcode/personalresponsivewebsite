@@ -1,0 +1,2 @@
+# personalresponsivewebsite
+My static website
